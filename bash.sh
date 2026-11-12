@@ -1,4 +1,5 @@
 #!/bin/bash 
+#Counts from 0 to 9.
 COUNTER=0 
 while [ $COUNTER -lt 10 ] 
 do 
